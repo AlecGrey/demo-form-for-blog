@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 // REACT BOOTSTRAP COMPONENTS
 import Form from 'react-bootstrap/Form';
